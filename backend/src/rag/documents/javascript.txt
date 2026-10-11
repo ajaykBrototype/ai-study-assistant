@@ -1,0 +1,17 @@
+JavaScript
+
+JavaScript is a high-level programming language commonly used
+to build interactive web applications.
+
+A closure is a function that remembers variables from its
+outer lexical scope even after the outer function has finished
+execution.
+
+A Promise represents the eventual completion or failure of
+an asynchronous operation.
+
+async and await are used to write asynchronous JavaScript
+code in a cleaner and more readable way.
+
+The event loop allows JavaScript to handle asynchronous
+operations even though JavaScript execution is single-threaded.

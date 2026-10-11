@@ -1,0 +1,18 @@
+React
+
+React is a JavaScript library for building user interfaces.
+
+A component is a reusable piece of UI.
+
+useState is a React Hook used to manage state inside a
+functional component.
+
+useEffect is a React Hook used to perform side effects such
+as API calls, subscriptions, and updating external systems.
+
+useMemo is used to memoize a calculated value.
+
+useCallback is used to memoize a function reference.
+
+React.memo can prevent unnecessary rendering when a component's
+props have not changed.

@@ -1,0 +1,15 @@
+Node.js
+
+Node.js is a JavaScript runtime built on the V8 JavaScript
+engine.
+
+Node.js uses an event-driven, non-blocking I/O model.
+
+Express is a web framework for Node.js.
+
+Middleware functions have access to the request, response,
+and next function.
+
+The Node.js event loop allows Node.js to handle many
+concurrent I/O operations without creating a thread for
+every request.
